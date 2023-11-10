@@ -1,7 +1,7 @@
 {
   "name": "sendgrid-ts",
   "version": "1.0.0",
-  "description": "Hexagonal Arquitecture with Typescript and Hapi.js",
+  "description": "API for send emails with send grid",
   "main": "index.js",
   "scripts": {
     "build": "rimraf ./build && tsc",
